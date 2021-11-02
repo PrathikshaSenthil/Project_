@@ -16,7 +16,7 @@ var button;
 var bg;
 function preload(){
 
-  bg = loadImage("./assets/bg.jpg");
+  bg = loadImage("./assets/bg.JPG");
 }
 function setup() {
   var canvas = createCanvas(500, 500);
